@@ -1,1 +1,1 @@
-# fake_headline_generator.py
+academic_bot.py
